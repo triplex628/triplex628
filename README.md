@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several projects at RiT<br>👯 I’m looking to collaborate on Backend, ML, Web programming<br>🤝 I am looking for help with learning new languages<br>🌱 I’m currently learning at SPbETU LETI<br>
+🔭 I’m currently working on several projects<br>👯 I’m looking to collaborate on Backend, ML, Web programming<br>🤝 I am looking for help with learning new languages<br>🌱 I’m currently learning at SPbETU LETI<br>
 
 
 ## 🌐 Socials:
